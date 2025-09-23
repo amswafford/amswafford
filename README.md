@@ -3,5 +3,5 @@
 
 🧑🏻‍💻 My name is Aaron Swafford<br>
 🎓 I'm a Full Sail University Alumni<br>
-🌱 I'm currently learning www.freecodecamp.org<br>
+🌱 I'm currently learning www.codecademy.com<br>
 📫 You can contact me at contact@amswafford.com
